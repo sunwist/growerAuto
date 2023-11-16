@@ -3,7 +3,7 @@ O meu Trabalho de Conclusão de Curso (TCC) foi desenvolvido na instituição Se
 ![monitoramento](https://github.com/sunwist/GrowerAuto/assets/104114717/6135dc35-4f34-42cd-b76f-714fa1b7d92f)
 
 
--> Manual Funcional
+Manual Funcional
 
 ![Imagem1](https://github.com/sunwist/GrowerAuto/assets/104114717/f36a5d2d-513e-4467-823d-9cc142148d23)
 ![Imagem2](https://github.com/sunwist/GrowerAuto/assets/104114717/d6e8e596-f974-4474-8816-552a34bebaa1)
