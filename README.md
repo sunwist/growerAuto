@@ -34,16 +34,7 @@ Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) no Sena
 - **Hardware:** Arduino ESP32 configurado com sensores de temperatura e umidade.
 - **Software:** IDE Arduino para programação do ESP32.
 
-### Passos
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Importe o banco de dados no MySQL utilizando o arquivo `banco.sql`.
-3. Configure o arquivo `config.php` com as credenciais do banco de dados.
-4. Suba o servidor local e acesse o site pelo navegador.
-5. Faça o upload do código no Arduino ESP32.
-
+## Manual Funcional
 
 
 ![Imagem1](https://github.com/sunwist/GrowerAuto/assets/104114717/f36a5d2d-513e-4467-823d-9cc142148d23)
